@@ -3,3 +3,4 @@ class QuotesController < Rulers::Controller
     "Power is understanding."
   end
 end
+
