@@ -1,6 +1,6 @@
 class QuotesController < Rulers::Controller
   def a_quote
-    "Power is understanding."
+    render :a_quote, :noun => :winking
   end
 end
 
